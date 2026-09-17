@@ -1,6 +1,6 @@
 import sys
 
-from tools import shout
+from .tools import shout
 
 
 def main() -> None:
